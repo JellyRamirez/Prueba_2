@@ -1,6 +1,8 @@
 # Prueba_2
  Prueba con GitHub Desktop
 
-Taller desarrollado por el **Google Developer Student Club** 
+Taller desarrollado por el **Google Developer Student Club** y el British Council.
 
-###Otro cambio :)
+
+
+### Insertaremos una imagen ### 
