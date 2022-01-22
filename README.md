@@ -6,4 +6,4 @@ Taller desarrollado por el **Google Developer Student Club** y el British Counci
 
 
 ### Insertaremos una imagen ### 
-![migos](IMG/IMG_1908.jpg)
+![hack](IMG/IMG_1908.jpg)
